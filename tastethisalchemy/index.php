@@ -1,0 +1,65 @@
+<?php require($_SERVER['DOCUMENT_ROOT'] . '/header.php'); ?>
+
+<style type="text/css">
+#veuxdo-wrap {
+	height: 1023px;
+    overflow: hidden;
+    position: relative;
+}
+
+#veuxdo-image {
+	position: absolute;
+    left: 50%;
+    margin-left: -808px;
+    background:url('https://s3-us-west-2.amazonaws.com/konversation/alchemy-lala.jpg') no-repeat;
+    width:1616px;
+    height:1023px;
+}
+</style>
+
+<h1>#tastethisalchemy</h1>
+<div id="container">
+    <div class="nav" id="later">
+        <a href="http://konversation.us/sacred" style="color: #404040" onmouseover="this.style.color='#f93563'" onmouseout="this.style.color='#404040'">&larr; sacred</a>
+        <div class="clear"></div>
+    </div>
+    <div class="nav" id="earlier">
+        <a href="http://konversation.us/oversees" style="color: #404040" onmouseover="this.style.color='#874c9c'" onmouseout="this.style.color='#404040'">oversees &rarr;</a>
+        <div class="clear"></div>
+    </div>
+
+    <p class="title">FEATURING <a href="http://www.veuxdo.com/"  target="_blank" style="color: #1a632d;">Veuxdo Child</a></p>
+
+    <div class="clear" style="height:30px;"></div> 
+    
+    <p class="title" style="width:600px; font-size:18px;"> al&middot;che&middot;my Noun <br />
+		The medieval forerunner of chemistry, based on the supposed transformation of matter, esp. that of base metals into gold.
+		A process by which paradoxical results are achieved or incompatible elements combined with no obvious rational explanation.
+    </p>
+    
+    <div class="clear" style="height:75px;"></div> 
+    
+    <div id="veuxdo-wrap">
+         <a href="http://veuxdo.com" target="_blank"><div id="veuxdo-image"></div></a>
+    </div>
+
+    <div class="clear" style="height:75px;"></div>  
+    
+    <iframe width="960px" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F84004355"></iframe>
+    
+    <div class="clear" style="height:75px;"></div>
+    
+    <div class="content" style="width:960px; margin: 0 auto; text-align: center; float:none;">
+         <a href="https://www.facebook.com/media/set/?set=a.462325900505400.1073741832.362102877194370&type=1" target="_blank">
+         <img style="display: block;" src="https://s3-us-west-2.amazonaws.com/konversation/alchemy-tonia-1.jpg" /> 
+         <img style="display: block;" src="https://s3-us-west-2.amazonaws.com/konversation/alchemy-tonia-2.jpg" /> 
+         <img style="display: block;" src="https://s3-us-west-2.amazonaws.com/konversation/alchemy-tonia-3.jpg" /> 
+         <img style="display: block;" src="https://s3-us-west-2.amazonaws.com/konversation/alchemy-tonia-4.jpg" /> 
+         <img style="display: block;" src="https://s3-us-west-2.amazonaws.com/konversation/alchemy-tonia-5.jpg" /> 
+         </a>
+    </div>
+    
+    
+    <div class="clear" style="height:100px;"></div> 
+</div>
+<?php require($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>

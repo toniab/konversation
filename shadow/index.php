@@ -1,0 +1,88 @@
+<?php include("http://konversation.us/header.php"); ?>
+
+<style type="text/css">
+	h5 {
+		font-size: 18px;
+	}
+	p.text {
+		font-size: 16px;
+		width: 500px;
+		margin: 0 auto 20px auto;
+		text-align: left;
+		line-height: 1.45em;
+	}
+	ul {
+		font-size: 18px;
+		text-align: left;
+		width: 500px;
+		margin: 0 auto 20px auto;
+		padding: 0;
+	}
+	li {
+		list-style-type: none;
+	}
+</style>
+<h1>shadow</h1>
+<div id="container" style="width:auto;">
+    <div class="nav" id="later">
+        <a href="/protection" style="color: #000" onmouseover="this.style.color='royalblue'" onmouseout="this.style.color='#000'">&larr; protection</a>
+        <div class="clear"></div>
+    </div>
+    <div class="nav" id="earlier">
+        <a href="/easy" style="color: #000" onmouseover="this.style.color='#e08e90'" onmouseout="this.style.color='#000'">easy &rarr;</a>
+        <div class="clear"></div>
+    </div>
+      
+    <p class="title" style="margin-bottom:40px;text-align:center;">feat. <a href="http://ghostcafe.tumblr.com/" style="color:#b2e1c2;" target="_blank">d. marvi</a></p>
+ 
+<h5>I.</h5>
+<p class="text">Nestled between the borders of two negligent worlds is an an unmapped valley, populated only by shadows.</p>
+
+<img src="https://s3-us-west-2.amazonaws.com/konversation/shadow-i.jpg" />
+
+<h5>II.</h5>
+<p class="text">I sometimes manifest as a hazy, nebulous thing in a place of sharp angles. Other times I am a lump of coagulated honey studded with bee stings, messily interrupting the placid order of a soft space. No matter my shape, I am only a moving dimness levitating slightly with unrealized and unspent energy, floating aimlessly.</p>
+
+<img src="https://s3-us-west-2.amazonaws.com/konversation/shadow-ii.jpg" />
+
+<h5>III.</h5>
+<ul><li>"Who am I?"</li>
+<li>"Where do I belong?"</li>
+<li>"Who are my ancestors?"</li></ul>
+
+<p class="text">More smoke than sound, the words barely echo in the depths of the valley. I'm still begging for the answers to these questions. I can't do much else but haunt these shadowy fields, each step crushing the star bright white flowers of forgetfulness and trampling the dainty rosey berries of hatefulness.</p>
+
+<img src="https://s3-us-west-2.amazonaws.com/konversation/shadow-iii.jpg" />
+
+<h5>IV.</h5>
+<p class="text">I am seafoam waiting to become flesh, half born and wholly unwanted. Perpetually met with  cringes and sighs, a cruel magic that dissolves the tender half body I built up into a pool of murky water. I am hovering between realities without being able to settle comfortably into either. Lingering on the periphery eternally. Constantly craving phantoms that never existed. Tormented by what could have been and what I am not. Yearning for rest. Praying for a true home. I am exhausted. I tire of swallowing sorrow and gulping down grief, yet still starving.</p>
+
+<img src="https://s3-us-west-2.amazonaws.com/konversation/shadow-iv.jpg" />
+
+<h5>V.</h5>
+<p class="text">Compulsively and continuously gathering up as much of myself as I can. Writing down self definitions and filing them away under the roots of a pomegranate tree. Manifesting myself with the everyday magic of arranging words. I live in my loneliness, exchanging electric shocks with the other flickering shadows who glide past me in this liminality. My touch turns things to ash but I still sup upon these small particles of reality, blessed by their bygone beauty.</p>
+
+<img src="https://s3-us-west-2.amazonaws.com/konversation/shadow-v.jpg" />
+
+<p class="text">What I am, at this point in time, according to myself :
+<ul><li>a fig eating beast</li>
+<li>a living breathing rose</li>
+<li>a seafoam serpent</li>
+<li>a gelatinous quince seed</li>
+<li>a pillar of flames</li>
+<li>a dying star</li>
+<li>a feral garden</li></ul></p>
+
+<div class="clear" style="height: 50px;"></div>
+Writing by D.K.A.<br />
+Illustration by Tonia
+<div class="clear" style="height: 70px;"></div>
+    <img style="margin-bottom:20px;" src="https://s3-us-west-2.amazonaws.com/konversation/hawa-1.jpg" /><br />
+    <img style="margin-bottom:20px;" src="https://s3-us-west-2.amazonaws.com/konversation/hawa-2.jpg" /><br />
+    <img style="margin-bottom:20px;" src="https://s3-us-west-2.amazonaws.com/konversation/hawa-3.jpg" /><br />
+Photography by Hawa
+<div class="clear" style="height: 150px;"></div>
+
+
+</div>
+<?php include("http://konversation.us/footer.php"); ?>

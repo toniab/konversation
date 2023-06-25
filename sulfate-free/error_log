@@ -1,0 +1,2 @@
+[15-Dec-2013 13:17:00 America/Denver] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/toniabco/public_html/konversation/sulfate-free/index.php on line 1
+[15-Dec-2013 13:17:00 America/Denver] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/toniabco/public_html/konversation/sulfate-free/index.php on line 33

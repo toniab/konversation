@@ -1,0 +1,81 @@
+<?php require($_SERVER['DOCUMENT_ROOT'] . '/header.php'); ?>
+
+<style type="text/css">
+#sacred-bird-wrap {
+	height: 451px;
+    overflow: hidden;
+    position: relative;
+}
+
+#sacred-bird-image {
+	position: absolute;
+    left: 50%;
+    margin-left: -550px;
+    background:url('https://s3-us-west-2.amazonaws.com/konversation/sacred-bird.jpg') no-repeat;
+    width:1100px;
+    height:451px;
+}
+</style>
+
+<h1>sacred</h1>
+<div id="container">
+    <div class="nav" id="later">
+        <a href="http://konversation.us/obscura" style="color: #404040" onmouseover="this.style.color='#1a632d'" onmouseout="this.style.color='#404040'">&larr; obscura</a>
+        <div class="clear"></div>
+    </div>
+    <div class="nav" id="earlier">
+        <a href="http://konversation.us/tastethisalchemy" style="color: #404040" onmouseover="this.style.color='#1a632d'" onmouseout="this.style.color='#404040'">#tastethisaclehmy &rarr;</a>
+        <div class="clear"></div>
+    </div>
+
+    <p class="title">FEATURING <a href="http://www.lexxvaldez.com"  target="_blank" style="color: #f93563;">Lexx Valdez</a></p>
+
+    <div class="clear" style="height:30px;"></div> 
+    
+    <div class="content" style="width:960px; margin: 0 auto; text-align: center; float:none;">
+        <div style="float: left;">
+            <img src="https://s3-us-west-2.amazonaws.com/konversation/sacred-lexx-moon.jpg" /> 
+            <p class="desc" style="margin-right:0px; text-align: right;">Moon</p>
+        </div> 
+        <div style="float: left; margin-left: 30px;">
+            <a href="https://www.facebook.com/sqd13?fref=ts" target="_blank"><img src="https://s3-us-west-2.amazonaws.com/konversation/sacred-lexx-saqd.jpg" /></a>
+            <p class="desc" style="margin-right:0px; text-align: right;"><a href="https://www.facebook.com/sqd13?fref=ts" target="_blank" style="color: #f93563;">Stories of Queer Diaspora</a></p>            
+        </div>
+        <div class="clear"></div>
+        <div>
+            <img src="https://s3-us-west-2.amazonaws.com/konversation/sacred-lexx-mandala.jpg" />
+            <p class="desc" style="float:right; text-align: right;">Mexica Cosmos Mandala </p>
+        </div>
+    </div>
+    
+   <div class="clear" style="height:75px;"></div> 
+    
+    <div id="sacred-bird-wrap">
+         <div id="sacred-bird-image"></div>
+    </div>
+    
+    <div class="clear" style="height:50px;"></div> 
+    
+    <div class="content" style="width:1100px; margin: 0 auto; text-align: center; float:none;">
+        <img src="https://s3-us-west-2.amazonaws.com/konversation/sacred-hor.jpg" />
+    </div>
+    
+    <div class="clear" style="height:50px;"></div> 
+    
+    <div class="content" style="width:1100px; margin: 0 auto; text-align: center; float:none;">
+        <img src="https://s3-us-west-2.amazonaws.com/konversation/sacred-head.jpg" />   
+        <p class="desc" style="text-align: right; width: 558px;">A gift</p>
+    </div>  
+    
+   <div class="clear" style="height:40px;"></div> 
+    
+    <div class="content" style="width:960px; margin: 0 auto; text-align: center; float:none;">
+    the holiest place can be found in a stranger's impassioned gestures</br></br>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/JSpnxUk4kzM?rel=0" frameborder="0" allowfullscreen></iframe></br></br>
+    the gift of remembering is to practice protecting the sacred from neglect. ritual repetition landing in the hands of a 27 year old, Russian-Algerian, mother of 2, Bristol resident, habitual note-taker, multi-lingual, former professional swimmer who will now occasionally swim the English channel in full hijab.</br>
+    </div>
+    
+    
+    <div class="clear" style="height:100px;"></div> 
+ </div>  
+<?php require($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>

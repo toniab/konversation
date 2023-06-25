@@ -1,0 +1,27 @@
+<?php include("header.php"); ?>
+
+<h1>queen</h1>
+
+<div id="container" style="width:1000px;">
+
+        <div class="nav single" id="later">
+            <a href="lack.php" style="color: #404040" onmouseover="this.style.color='#783237'" onmouseout="this.style.color='#404040'">&larr; lack</a>
+            <div class="clear"></div>
+        </div>
+        
+        <div class="clear" style="height:25px;"></div>
+    
+
+    <div class="content">
+        <img src="https://s3-us-west-2.amazonaws.com/konversation/queen.jpg" />
+    </div>
+    
+    <div class="content">
+        <img src="https://s3-us-west-2.amazonaws.com/konversation/queen-text.jpg" />
+    </div>
+
+    <div class="clear" style="height:100px;"></div>
+    
+</div>
+
+<?php include("footer.php"); ?>

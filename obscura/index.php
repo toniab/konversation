@@ -1,0 +1,51 @@
+<?php require($_SERVER['DOCUMENT_ROOT'] . '/header.php'); ?>
+
+<h1>obscura</h1>
+<div id="container">
+    <div class="nav" id="later">
+        <a href="http://konversation.us/dearworld" style="color: #404040" onmouseover="this.style.color='#C61C1A'" onmouseout="this.style.color='#404040'">&larr; dear world</a>
+        <div class="clear"></div>
+    </div>
+    <div class="nav" id="earlier">
+        <a href="http://konversation.us/sacred" style="color: #404040" onmouseover="this.style.color='#f93563'" onmouseout="this.style.color='#404040'">sacred &rarr;</a>
+        <div class="clear"></div>
+    </div>
+    
+    <div class="clear" style="height: 50px;"></div>
+    
+    <div class="content" style="width:960px; margin: 0 auto; text-align: left; float:none;">
+        i could cry endlessly for the anger and sadness i brought back from afghanistan. </br>
+       <p> there are mountains in my chest, and when i breathe, blood pumps through the valleys and frosts the peaks with cold hate breath in solidarity with my father's land. the pain of avalanches cripples me, ripping through my chest cavity and dissolving guts into a severe lack of appetite. my eyes are tired from wetness and my skin drenched. every trail of salt down my limbs is a memory line connecting me to the hopelessness of my people.</p>
+
+        1. the cousin who jokes about sometimes just wanting to put a gun to his head because he either gives in to corruption or protects his morality and falls prey to corruption's deadly hand. </br></br>
+
+        2. the blast outside the us army base killing 8 children excited to greet a missing friend, not knowing his chest was full of mountains of dynamite. </br></br>
+
+        3. widows laying in middle of the street pity pits, too disconnected to beg. </br>
+
+        <p>when i sit in the sun, i can feel salt lines harden into heavy wrinkles and my eyes turn that perfect blend of blue green; an ocean rocking to the blood orange moon. </p>
+            
+        <p>the moon burns with anger, that every night it rises to illuminate a country naked and scared. sometimes the moon doesn't rise to blanket my people with night and all they have are the stars in the mountains, flickers of minute long gas lamps to see just enough of what might still be sacred when there is no light. my country is stripped bare and this is why we wear burqas.</p>
+
+        <p>we wear them to protect ourselves from the gaze of humans with a front cover poverty complex. to protect the mountains, the weariness of seeking refuge all over the world only to feel phantom pains of land crying dry tears <i>please help</i>. i don't know how to help other than to empty skull oceans and excavate the mountains in my chest, taking a page from colonizers to hurry toward the secret of flawless civilization myself. self-colonization is the path to peace, but my body knows war now.</p> 
+
+        <p>i'm thanking the wrinkles in my skin for allowing me to stretch into transforming the anger into reflection, into remembering the inherited mourning of conflict- a place my mother once wore mini-skirts in.</p>
+    </div>
+   
+    <div class="clear" style="height:30px;"></div> 
+    
+    <div class="content" style="width:960px; margin: 0 auto; text-align: center; float:none;">
+        <img src="https://s3-us-west-2.amazonaws.com/konversation/obscura-hawa.jpg" />
+    </div>
+    
+    <div class="clear" style="height:100px;"></div> 
+        
+    <div class="content" style="width:960px; margin: 0 auto; text-align: center; float:none;">
+        <img src="https://s3-us-west-2.amazonaws.com/konversation/cameraobscura-tonia.jpg" />
+    </div>
+    
+    
+    <div class="clear" style="height:100px;"></div> 
+
+</div>
+<?php require($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>
